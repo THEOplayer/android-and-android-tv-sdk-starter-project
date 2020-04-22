@@ -76,8 +76,3 @@ In a terminal navigate to the project folder and run:
 
 The generated APK file (what you need to install on your device) will be available in the ```app/build/outputs/apk/``` folder.
 
-
-## License
-
-This project is licensed under the BSD 3 Clause License - see the [LICENSE](LICENSE) file for details
-
