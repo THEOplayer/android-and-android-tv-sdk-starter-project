@@ -1,9 +1,13 @@
 # THEOplayer Android and Android TV SDK - Starter project
 
-This Android project is an example how to integrate [THEOplayer](https://www.theoplayer.com) into an Android and Android TV app.
-There is a step-by-step [guide](https://support.theoplayer.com/hc/en-us/articles/360000779729-Android-Starter-Guide) for this project, we suggest you to follow it for better insights.
+## License
+
+This projects falls under the license as defined in https://github.com/THEOplayer/license-and-disclaimer.
 
 ## Getting Started
+
+This Android project is an example how to integrate [THEOplayer](https://www.theoplayer.com) into an Android and Android TV app.
+There is a step-by-step [guide](https://support.theoplayer.com/hc/en-us/articles/360000779729-Android-Starter-Guide) for this project, we suggest you to follow it for better insights.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
